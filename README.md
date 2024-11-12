@@ -1,4 +1,4 @@
-<b><u>please try cloning this repo as every functionality is fully developed in this repo</u></b>, the deployed link can cause issues<br>
+<b><u>please try cloning this repo as every functionality is fully developed in this repo</u></b>, the deployed link can cause issues<br><br><br>
 first clone this repo next run the following commands in terminal<br>
 npm install <br>
 
